@@ -1,4 +1,14 @@
 [{
+  "name": "Rogue",
+  "orderFromSun": 20,
+  "hasRings": false,
+  "mainAtmosphere": [],
+  "surfaceTemperatureC": {
+    "min": -100,
+    "max": 100,
+    "mean": 0
+  }
+},{
   "name": "Mercury",
   "orderFromSun": 1,
   "hasRings": false,
